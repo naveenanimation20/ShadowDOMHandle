@@ -20,7 +20,6 @@ public class GoogleDownloadSearch {
         String js = "arguments[0].setAttribute('value', 'NaveenAutomationLabs')";
        ((JavascriptExecutor)driver).executeScript(js, search);
 		
-		
 	}
 
 }
