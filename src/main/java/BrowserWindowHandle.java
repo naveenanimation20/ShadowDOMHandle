@@ -43,5 +43,10 @@ public class BrowserWindowHandle {
 		
 		
 	}
+	
+	public void test(){
+		System.out.println("title");
+		
+	}
 
 }
