@@ -48,7 +48,6 @@ public class BrowserWindowHandle {
 		System.out.println("title");
 		System.out.println("remote title");
 
-		
 	}
 
 }
